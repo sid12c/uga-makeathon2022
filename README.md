@@ -11,6 +11,7 @@ Sidharth Chaudhary, Sarah Sileshi, Sreya Bitra, Noah Samples
 # Figma Apllication Wireframe and Video
 
 [Figma] <https://www.figma.com/file/wQ6qO5qRzDZLCqjw1pHEEi/Website?node-id=0%3A1>
+
 [Video] <https://youtu.be/y1VtNqXQfOc>
 
 ## Pictures
